@@ -209,18 +209,18 @@
                                 <exclude reference="JSA-MY-LRz"/>
                                 <exclude reference="gTm-Rt-2lE"/>
                                 <exclude reference="hhF-Wx-asU"/>
+                                <exclude reference="0zX-Zy-phf"/>
                                 <exclude reference="7o5-b3-Jq7"/>
                                 <exclude reference="YQ7-X2-6LH"/>
                                 <exclude reference="lpG-qK-0rv"/>
                                 <exclude reference="uPm-Cg-S4G"/>
-                                <exclude reference="Duf-7F-Ynv"/>
-                                <exclude reference="VBx-g4-snu"/>
+                                <exclude reference="BOr-tT-3z1"/>
                                 <exclude reference="4UN-63-5n8"/>
                                 <exclude reference="DaZ-Mp-M9h"/>
                                 <exclude reference="Gbg-Fh-vdW"/>
                                 <exclude reference="wWI-p7-OXH"/>
-                                <exclude reference="0zX-Zy-phf"/>
-                                <exclude reference="BOr-tT-3z1"/>
+                                <exclude reference="Duf-7F-Ynv"/>
+                                <exclude reference="VBx-g4-snu"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
@@ -235,18 +235,18 @@
                                 <include reference="JSA-MY-LRz"/>
                                 <include reference="gTm-Rt-2lE"/>
                                 <include reference="hhF-Wx-asU"/>
+                                <include reference="0zX-Zy-phf"/>
                                 <include reference="7o5-b3-Jq7"/>
                                 <include reference="YQ7-X2-6LH"/>
                                 <include reference="lpG-qK-0rv"/>
                                 <include reference="uPm-Cg-S4G"/>
-                                <include reference="Duf-7F-Ynv"/>
-                                <include reference="VBx-g4-snu"/>
+                                <include reference="BOr-tT-3z1"/>
                                 <include reference="4UN-63-5n8"/>
                                 <include reference="DaZ-Mp-M9h"/>
                                 <include reference="Gbg-Fh-vdW"/>
                                 <include reference="wWI-p7-OXH"/>
-                                <include reference="0zX-Zy-phf"/>
-                                <include reference="BOr-tT-3z1"/>
+                                <include reference="Duf-7F-Ynv"/>
+                                <include reference="VBx-g4-snu"/>
                             </mask>
                         </variation>
                     </view>
